@@ -1,7 +1,7 @@
-# 🌸 Flor de Abril
+# 🌸 Catavento - Flor de Abril
 
-Programa em **Python + OpenGL** que desenha uma flor de abril para a segunda atividade da disciplina de Computação Gráfica.  
-As pétalas giram no sentido horário ao pressionar a tecla **P**.
+Programa em **Python + OpenGL** que desenha um catavento (inspirado na flor de Abril da atividade anterior) para a segunda atividade da disciplina de Computação Gráfica.  
+Ele gira no sentido horário ao pressionar a tecla **P**.
 
 ## 📋 Tecnologias
 
