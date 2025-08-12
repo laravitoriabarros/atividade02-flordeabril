@@ -19,6 +19,7 @@ Instale as dependências com:
 
 ```bash 
 pip install PyOpenGL PyOpenGL_accelerate
+```
 
 ## ▶️ Como executar na sua máquina 
 
@@ -27,11 +28,13 @@ pip install PyOpenGL PyOpenGL_accelerate
 ```bash 
 git clone https://github.com/laravitoriabarros/atividade02-flordeabril.git
 cd atividade02-flordeabril
+```
 
 2. Execute o programa:
 
 ```bash
 python main.py
+```
 
 ## 🎮 Controles
 
